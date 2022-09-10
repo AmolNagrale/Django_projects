@@ -1,2 +1,2 @@
 # Django_projects
-I have cover all projects, on same repo
+I have covered all projects, on same repo
